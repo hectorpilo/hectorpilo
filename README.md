@@ -26,3 +26,4 @@ Trabajo con tecnologías robustas para el procesamiento de datos y desarrollo de
 * **Control de Versiones:** Git, GitHub.
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorpilo)](https://github.com/hectorpilo/github-readme-stats)
