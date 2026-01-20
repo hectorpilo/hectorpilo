@@ -72,6 +72,6 @@ I am open to discussing high-level consulting and technical challenges involving
 ✅ **Business Strategy** optimization through data analysis.
 
 ---
-> *"If a client makes me wait 20 minutes, I leave. Time is the most valuable asset in business."*
+> *"The more you do, the more you get"*
 
 
