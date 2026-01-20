@@ -1,28 +1,28 @@
 ### 👋 ¿Quién soy?
 
-Soy **Ingeniero Electrónico**, **Consultor y Asesor de Ciencia de Datos e IA**. Fundo y dirijo **AureAI**, una firma dedicada a resolver problemas gerenciales y operativos mediante la toma de decisiones basada en datos.
+Soy **Ingeniero Electrónico**, **creador y colaborador de AureAI**, empresa dedicada a consultorías y soluciones en análisis de datos e Inteligencia Artificial.
 
-Mi enfoque combina la ingeniería dura con la estrategia de negocio. No solo entreno modelos; diseño soluciones integrales de ingeniería de datos, visión artificial y automatización que generan valor real y medible. Busco siempre la excelencia técnica y la eficiencia en cada implementación.
+Mi enfoque se centra en resolver problemas complejos mediante la toma de decisiones basada en datos. Diseño e implemento soluciones tecnológicas que van desde la ingeniería de datos hasta la visión por computadora, buscando siempre la eficiencia operativa y el impacto estratégico en cada proyecto.
 
 ---
 
 ### 🚀 ¿En qué estoy trabajando actualmente?
 
-Estoy concentrado en expandir las capacidades de **AureAI** a través de soluciones de alto impacto técnico:
+En **AureAI**, estoy desarrollando soluciones especializadas para la industria y servicios profesionales:
 
-* **Abogada de AureAI (Legal Tech):** Lidero el desarrollo de un sistema basado en **RAG (Retrieval-Augmented Generation)** y bases de datos vectoriales para optimizar estrategias de defensa jurídica mediante IA.
-* **PV Anomaly Atlas:** Desarrollo de una aplicación de escritorio especializada para el registro, etiquetado y gestión de anomalías en módulos fotovoltaicos, orientada a la creación de datasets de calidad para Computer Vision.
-* **Automatización de Procesos Comerciales:** Implementación de scripts en Python para automatizar el flujo de cotizaciones y la gestión operativa de servicios de consultoría.
+* **Abogada de AureAI (Legal Tech):** Implementación de un sistema **RAG (Retrieval-Augmented Generation)** con bases de datos vectoriales para asistir en la estrategia y defensa jurídica.
+* **PV Anomaly Atlas:** Desarrollo de una aplicación de escritorio para el registro y gestión de anomalías en módulos fotovoltaicos, facilitando el entrenamiento de modelos de Computer Vision.
+* **Automatización de Procesos:** Creación de scripts y herramientas en Python para optimizar flujos de trabajo y cotizaciones de servicios de consultoría.
 
 ---
 
 ### 🛠️ Herramientas y Stack Tecnológico
 
-Utilizo un stack técnico enfocado en escalabilidad y procesamiento de datos:
+Trabajo con tecnologías robustas para el procesamiento de datos y desarrollo de software:
 
 * **Lenguajes:** Python (Experto), SQL.
-* **IA & Data Science:** Pandas, Scikit-learn, Ultralytics (YOLO / Computer Vision), BigQuery.
-* **Desarrollo & Despliegue:** PySide6 (GUI), Streamlit, Vector Databases.
-* **Control & Colaboración:** Git, GitHub.
+* **Data Science & AI:** Pandas, Scikit-learn, Ultralytics (YOLO / Computer Vision), BigQuery.
+* **Desarrollo:** PySide6 (Interfaces Gráficas), Streamlit, Vector Databases.
+* **Control de Versiones:** Git, GitHub.
 
 ---
