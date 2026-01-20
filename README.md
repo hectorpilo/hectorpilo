@@ -27,3 +27,5 @@ Trabajo con tecnologías robustas para el procesamiento de datos y desarrollo de
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorpilo)](https://github.com/hectorpilo/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorpilo&repo=github-readme-stats)](https://github.com/hectorpilo/github-readme-stats)
